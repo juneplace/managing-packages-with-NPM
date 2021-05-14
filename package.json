@@ -1,4 +1,5 @@
 {
+	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
 	"author": "Andrea",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
